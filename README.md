@@ -10,10 +10,19 @@
 
 STEP 1) add ensure putincart_kw into your server.cfg
 
+STEP 2) add putincart_kw to resources folder
 
 *If you need help, join my discord, I run a RedM server that is in development and can provide support as well and future releases.*
 
 Discord: https://discord.gg/kCeJ7tJPha
+
+---------------------------
+
+USAGE:
+
+Pick up any dead animal or ped, go to the back of any wagon / cart and hold LEFT ALT.
+
+---------------------------
 
 #
 *KNOWN ISSUES:*
