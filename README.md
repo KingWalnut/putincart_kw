@@ -3,6 +3,7 @@
 
 #
 **HOW TO INSTALL**
+---------------------------
 STEP 1) add ensure putincart_kw into your server.cfg
 
 -----------------
