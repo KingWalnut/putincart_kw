@@ -15,7 +15,8 @@ STEP 1) add ensure putincart_kw into your server.cfg
 
 Discord: https://discord.gg/kCeJ7tJPha
 
-#KNOWN ISSUES:
+#
+KNOWN ISSUES:
 
 When trying to stow a ped or animal, it is covered by the cart prompt, to avoid this move your character a bit and quickly press R to stow.
 
