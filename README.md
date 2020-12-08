@@ -1,7 +1,7 @@
 # putincart_kw
 *for vorp*
 
-###### This is an <h6> tag
+##HOW TO INSTALL##
 add ensure putincart_kw into your server.cfg
 
 -----------------
