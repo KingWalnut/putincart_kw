@@ -13,3 +13,4 @@ When trying to stow a ped or animal, it is covered by the cart prompt, to avoid 
 
 ----
 This is an edit of previous script I found on the VORP discord. Credits to the original author.
+https://discord.gg/kCeJ7tJPha
