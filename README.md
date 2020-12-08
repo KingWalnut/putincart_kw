@@ -8,6 +8,7 @@ This allows any cart to accept animals or peds, for some reason REDM doesn't lik
 ########
 known issue
 #######
+
 When trying to stow a ped or animal, it is covered by the cart prompt, to avoid this move your character a bit and quickly press R to stow.
 
 ----
