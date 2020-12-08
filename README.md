@@ -1,8 +1,9 @@
 # putincart_kw
 *for vorp*
 
-## <HOW TO INSTALL>
-add ensure putincart_kw into your server.cfg
+#
+**HOW TO INSTALL**
+STEP 1) add ensure putincart_kw into your server.cfg
 
 -----------------
 **This allows any cart to accept animals or peds, for some reason REDM doesn't like to collect the hashes of all vehicles in a list so I decided to do it this way for now, its not the best but its better than only being able to use 3 carts in which most animals can just fall out.**
