@@ -1,7 +1,7 @@
 # putincart_kw
 *for vorp*
 
-##HOW TO INSTALL
+## <HOW TO INSTALL>
 add ensure putincart_kw into your server.cfg
 
 -----------------
