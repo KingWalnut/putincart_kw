@@ -102,7 +102,7 @@ Citizen.CreateThread(function()
 						end
 						if PromptHasHoldModeCompleted(AnimalPrompt) then
 							PromptSetEnabled(AnimalPrompt, false)
-							wdwwromptSetVisible(AnimalPrompt, false)
+							PromptSetVisible(AnimalPrompt, false)
 							prompt = false
 							animalcheck = Citizen.InvokeNative(0xD806CD2A4F2C2996, ped)
 							pedid = NetworkGetNetworkIdFromEntity(animalcheck)
