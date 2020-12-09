@@ -27,7 +27,7 @@ Pick up any dead animal or ped, go to the back of any wagon / cart and hold LEFT
 #
 *KNOWN ISSUES:*
 
-When trying to stow a ped or animal, it is covered by the cart prompt, to avoid this move your character a bit and quickly press R to stow.
+not performance friendly, will be optimized.
 
 
 This is an edit of previous script I found on the VORP discord. Credits to the original author.
